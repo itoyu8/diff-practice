@@ -1,4 +1,4 @@
 # diff-practice
 diffの練習用
 複数変更（3rd）
-mainブランチで更新（conflict用）
+rebaseで更新（rebase conflict用）
